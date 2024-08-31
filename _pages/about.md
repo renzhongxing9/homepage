@@ -24,8 +24,8 @@ Ren Zhongxing is now a master student at China School of Banking and Finance in 
 Outside of academic life, He also has passed the **FRM Exam I**. And his main interests are long-distance running and photography.
 
 # 📖 Educations
-- *2024.09 - (now)*, [China School of Banking and Finance]("https://sbf.uibe.edu.cn/"), [University of International Business and Economics]("https://www.uibe.edu.cn/") (UIBE). M.S Student in Quantitative Investment (MF)
-- *2020.09 - 2024.07*, [School of Finance]("https://sf.dufe.edu.cn/"), [Dongbei University of Finance and Economics]("https://www.dufe.edu.cn/") (DUFE). B.S in Finance
+- *2024.09 - (now)*, [China School of Banking and Finance](https://sbf.uibe.edu.cn/), [University of International Business and Economics](https://www.uibe.edu.cn/) (UIBE). M.S Student in Quantitative Investment (MF)
+- *2020.09 - 2024.07*, [School of Finance](https://sf.dufe.edu.cn/), [Dongbei University of Finance and Economics](https://www.dufe.edu.cn/) (DUFE). B.S in Finance
 - *2017.08 - 2020.07*, NO.1 High School of Liaohe Oil Fielo
 
 # 📝 Papers 
@@ -46,7 +46,7 @@ Ning Zhao, **Zhongxing Ren**, Jun Luo*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">系统工程理论与实践</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](/docs/paper2.pdf)
+[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](homepage/docs/paper2.pdf)
 
 赵宁, **任中兴**, 汪振双*
 
