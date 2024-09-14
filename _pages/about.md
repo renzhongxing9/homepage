@@ -46,8 +46,8 @@ Ning Zhao, **Zhongxing Ren**, Jun Luo*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">系统工程理论与实践</div><img src='images/paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="homepage.github.io/docs/paper2.pdf" target="_blank">A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR</a>
-
+<a href="homepage.github.io/docs/paper2.pdf" target="_blank"></a>
+[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](../assets/paper2.pdf)
 
 赵宁, **任中兴**, 汪振双*
 
