@@ -33,7 +33,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">--</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals]
+[A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals](../docs/paper1.pdf)
 
 Ning Zhao, **Zhongxing Ren**, Jun Luo*
 
@@ -47,7 +47,7 @@ Ning Zhao, **Zhongxing Ren**, Jun Luo*
 <div class='paper-box-text' markdown="1">
 
 <a href="homepage.github.io/docs/paper2.pdf" target="_blank"></a>
-[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](../assets/paper2.pdf)
+[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](../docs/paper2.pdf)
 
 赵宁, **任中兴**, 汪振双*
 
