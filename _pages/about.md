@@ -33,7 +33,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">--</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="docs/paper1.pdf" target="_blank">A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals</a>
+<a href="/docs/paper1.pdf" target="_blank">A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals</a>
 
 Ning Zhao, **Zhongxing Ren**, Jun Luo*
 
