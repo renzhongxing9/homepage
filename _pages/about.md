@@ -19,7 +19,7 @@ redirect_from:
 
 **Welcome to my Homepage!**
 
-Ren Zhongxing is now a master student at China School of Banking and Finance in University of International Business and Economics. His main research interests are **Empirical Asset Pricing**, **Financial Risk Management**, **Machine Learning** and **Complex Networks**.
+Ren Zhongxing is now a master student at [China School of Banking and Finance](https://sbf.uibe.edu.cn/) in [University of International Business and Economics](https://www.uibe.edu.cn/). His main research interests are **Empirical Asset Pricing**, **Financial Risk Management**, **Machine Learning** and **Complex Networks**.
 
 Outside of academic life, He also has passed the **FRM Exam I**. And his main interests are long-distance running and photography.
 
@@ -30,7 +30,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 # 📝 Papers 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">在投</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">--</div><img src='images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Frozen Isolation Approach to Blocking the Wake-Up Call of Liquidity Spirals]
@@ -70,6 +70,8 @@ Ning Zhao, **Zhongxing Ren**, Zhenshuang Wang*
 # 🎖 Competition Honors
 - *2023.03*, ICBC-Cup National University Student Financial Technology Competition, **Top 50 in China, Dalian Division Special Prize** 🥇
 - *2022.06*, Citi-Cup Financial Innovation and Application Competition **Top 20 in China, Third Prize** 🥉
+- *2024.05*, Excellent graduation thesis of Dongbei University of Finance and Economics
+- *2024.06*, Dalian outstanding graduates
 
 
 # 😀 Scholarship
