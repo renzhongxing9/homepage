@@ -47,7 +47,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 <div class='paper-box-text' markdown="1">
 
 <a href="homepage.github.io/docs/paper2.pdf" target="_blank"></a>
-[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](https://xg40mzr1yh.feishu.cn/file/Wz9YbtetPozu5axovbMc1Zz1n3c?from=from_copylink))
+[A Study on the Mechanism of Cascade Effect on Risk Contagion of Time-varying Complex Networks Based on TVP-VAR](https://xg40mzr1yh.feishu.cn/file/Wz9YbtetPozu5axovbMc1Zz1n3c?from=from_copylink)
 
 [赵宁](https://sf.dufe.edu.cn/content_71278.html), **任中兴**, [汪振双](https://orcid.org/0000-0002-8999-1116)*
 
@@ -59,7 +59,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIAM</div><img src='images/paper3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pre-alarm Financial Systemic Risk Contagion Monitoring Based on Time-varying Dynamic Bayesian Complex Network]
+[Pre-alarm Financial Systemic Risk Contagion Monitoring Based on Time-varying Dynamic Bayesian Complex Network](https://doi.org/10.22541/au.172703177.75991082/v1)
 
 [Ning Zhao](https://sf.dufe.edu.cn/content_71278.html), **Zhongxing Ren**, [Zhenshuang Wang](https://orcid.org/0000-0002-8999-1116)*
 
