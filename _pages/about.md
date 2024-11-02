@@ -37,6 +37,8 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 [Ning Zhao](https://sf.dufe.edu.cn/content_71278.html), **Zhongxing Ren**, Jun Luo*
 
+**Conference:** 第二十三届中国系统工程学年会(数智时代金融系统工程)
+
 <details>
   <summary>
     Abstract <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
