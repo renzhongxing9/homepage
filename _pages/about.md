@@ -37,9 +37,12 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 [Ning Zhao](https://sf.dufe.edu.cn/content_71278.html), **Zhongxing Ren**, Jun Luo*
 
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- This paper examines the role of network collaboration self-rescue from large cross-market financial institutions in the United States and Europe during financial crises, specifically in the subprime mortgage crisis and COVID-19 crisis. Utilizing small-world complex network analysis (SMW) and flight to liquidity theory, we found that the shocked system exhibits an internal instability that increases from acceleration to deceleration, during which the liquidity commonality of the network is more sensitive to provide feedback on this instability. This feedback creates a temporary strong correlation between market prices by squeezing both sides of the asset and liability through flight to liquidity. In four typical crisis simulations, we used network collaboration to block a certain range of strong correlations temporarily. By implementing a series of standards named the frozen isolation approach (FIA), we effectively reduced the liquidity commonality and stabilized the system. This study highlights the importance of timing selection, range locking, and cost control, providing insights into the difficulties of crisis rescue and improving the efficiency of network collaboration self-rescue.
+<details>
+  <summary>
+    Abstract <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </summary>
+  - This paper examines the role of network collaboration self-rescue from large cross-market financial institutions in the United States and Europe during financial crises, specifically in the subprime mortgage crisis and COVID-19 crisis. Utilizing small-world complex network analysis (SMW) and flight to liquidity theory, we found that the shocked system exhibits an internal instability that increases from acceleration to deceleration, during which the liquidity commonality of the network is more sensitive to provide feedback on this instability. This feedback creates a temporary strong correlation between market prices by squeezing both sides of the asset and liability through flight to liquidity. In four typical crisis simulations, we used network collaboration to block a certain range of strong correlations temporarily. By implementing a series of standards named the frozen isolation approach (FIA), we effectively reduced the liquidity commonality and stabilized the system. This study highlights the importance of timing selection, range locking, and cost control, providing insights into the difficulties of crisis rescue and improving the efficiency of network collaboration self-rescue.
+</details>
 </div>
 </div>
 
@@ -51,8 +54,12 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 [赵宁](https://sf.dufe.edu.cn/content_71278.html), **任中兴**, [汪振双](https://orcid.org/0000-0002-8999-1116)*
 
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Based on the perspective of dynamic network structure evolution, we investigate the mechanisms of network cascade on risk contagion in China’s A-share markets. In this paper, we use Wind first-class industry index to construct a time-varying complex network based on Time-varying Parameter Vector Autoregressive (TVP-VAR) approach. We use DCC-GARCH-networkCoVaR to measure the risk contagion and find that from 2014 to 2024, network cascades among Chinese industries exhibit time-varying characteristics, with four distinct risk contagion surge intervals in the sample period. We confirm that the network cascades positively contribute to the risk contagion. Moreover, the transmission mechanism is dominated by direct connection, with multiple nodes present consistent risk output, and risk infection surges in the short term. We also find that Subgroups in cyclical and financial sectors， which are more influenced by capital fundamentals, have significantly increased the level of network cascades, amplifying risk contagion, and the impact is asymmetric. Our findings suggest regulators to take continuous time-based network cascade indicators into the macro real-time regulatory framework, in order to avoid the coherent risk output and the surge risk contagion in the network. Implement the pre-emptive policies for specific nodes, and focus on the design of early warning mechanisms for risk prevention.
+<details>
+  <summary>
+    Abstract <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </summary>
+  - Based on the perspective of dynamic network structure evolution, we investigate the mechanisms of network cascade on risk contagion in China’s A-share markets. In this paper, we use Wind first-class industry index to construct a time-varying complex network based on Time-varying Parameter Vector Autoregressive (TVP-VAR) approach. We use DCC-GARCH-networkCoVaR to measure the risk contagion and find that from 2014 to 2024, network cascades among Chinese industries exhibit time-varying characteristics, with four distinct risk contagion surge intervals in the sample period. We confirm that the network cascades positively contribute to the risk contagion. Moreover, the transmission mechanism is dominated by direct connection, with multiple nodes present consistent risk output, and risk infection surges in the short term. We also find that Subgroups in cyclical and financial sectors， which are more influenced by capital fundamentals, have significantly increased the level of network cascades, amplifying risk contagion, and the impact is asymmetric. Our findings suggest regulators to take continuous time-based network cascade indicators into the macro real-time regulatory framework, in order to avoid the coherent risk output and the surge risk contagion in the network. Implement the pre-emptive policies for specific nodes, and focus on the design of early warning mechanisms for risk prevention.
+</details>
 </div>
 </div>
 
@@ -63,8 +70,13 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 [Ning Zhao](https://sf.dufe.edu.cn/content_71278.html), **Zhongxing Ren**, [Zhenshuang Wang](https://orcid.org/0000-0002-8999-1116)*
 
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- The Data driven structure learning algorithm and the LASSO-VAR model were used to construct a time-varying dynamic Bayesian complex network model comprising high-dimensional continuous variables, to identify and warning systemic risk. The findings indicate that the financial industry achieved an average ODC of over 58% in the early stages of the global financial crisis, demonstrating the strongest risk spillover effect. The process of systemic risk contagion is manifested as a linkage process of internal industry diffusion to inter-industry diffusion, and key risk nodes can be identified in the early stages. The real estate industry is a source of financial system risk is verified through sensitivity analysis to validate the dynamic Bayesian complex network model of high-dimensional continuous variables. The model can identify and warn institutional level system risks in the early stages of risk outbreaks, and it helps to manage and control system risks in the early stages of crisis. 
+<details>
+  <summary>
+    Abstract <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </summary>
+  - The Data driven structure learning algorithm and the LASSO-VAR model were used to construct a time-varying dynamic Bayesian complex network model comprising high-dimensional continuous variables, to identify and warning systemic risk. The findings indicate that the financial industry achieved an average ODC of over 58% in the early stages of the global financial crisis, demonstrating the strongest risk spillover effect. The process of systemic risk contagion is manifested as a linkage process of internal industry diffusion to inter-industry diffusion, and key risk nodes can be identified in the early stages. The real estate industry is a source of financial system risk is verified through sensitivity analysis to validate the dynamic Bayesian complex network model of high-dimensional continuous variables. The model can identify and warn institutional level system risks in the early stages of risk outbreaks, and it helps to manage and control system risks in the early stages of crisis. 
+</details>
+
 </div>
 </div>
 
