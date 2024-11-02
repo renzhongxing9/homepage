@@ -37,7 +37,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 [Ning Zhao](https://sf.dufe.edu.cn/content_71278.html), **Zhongxing Ren**, Jun Luo*
 
-**Conference:** 第二十三届中国系统工程学年会(数智时代金融系统工程)
+**Conference:** 2024 SESC - The 23RD Annual Academic Conference
 
 <details>
   <summary>
@@ -97,6 +97,7 @@ Outside of academic life, He also has passed the **FRM Exam I**. And his main in
 
 # 💬 Conference
 - *2024.07*, 2024 Asian Summer School in Econometrics and Statistics
+- *2024.10*, 2024 SESC - The 23RD Annual Academic Conference
 
 # 💻 student association
 - 
